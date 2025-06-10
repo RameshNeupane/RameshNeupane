@@ -6,16 +6,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
 </div>
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=4F7BF7&center=true&vCenter=true&width=550&lines=Hello+World,+I'm+Ramesh+Neupane" alt="Typing SVG" /></a></div>
-
-<!--
-<h1 align="center" style="backgroud-color: red;"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=4F7BF7&center=false&vCenter=false&width=500&lines=Hello+World,+I'm+Ramesh+Neupane" alt="Typing SVG" /></a></h1>
-
-<h1 align="center"><b>Hello World </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>, I'm Ramesh Neupane</b></h1>
--->
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=4F7BF7&center=true&vCenter=true&width=550&lines=Hello+World,+I'm+Ramesh+Neupane" alt="Hello World, I'm Ramesh Neupane" /></a></div>
 
 <p><b>An aspiring technologist and passionate developer, based in Kathmandu Nepal, on a journey to transform ideas into impactful digital solutions. My love for Computer Science and Information Technology drives me to continuously explore new technologies and build meaningful projects.</b></p>
-
 
 <ul>
   <li>I'm currently learning <b>AI, DSA</b>.</li>
@@ -55,6 +48,5 @@ const RameshNeupane = {
   </a>
 </p>
 
-<h4><b>One more thing 👇</b></h4>
-<p>One of the best things that has happened in my life was that I got introduced to <b>Computer Science and Information Technology</b>.</p>
-
+<h4><b>👉 One more thing 👇</b></h4>
+<p>One of the best things that has happened in my life 👉 I got introduced to <b>Computer Science and Information Technology</b>.</p>
