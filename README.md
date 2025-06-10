@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://profile-counter.glitch.me/RameshNeupane/count.svg" alt="Visitor Count" title="Profile Visit Count" />
-</p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
 </div>
@@ -50,3 +46,8 @@ const RameshNeupane = {
 
 <h4><b>👉 One more thing 👇</b></h4>
 <p>One of the best things that has happened in my life 👉 I got introduced to <b>Computer Science and Information Technology</b>.</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/RameshNeupane/count.svg" alt="Visitor Count" title="Profile Visit Count" />
+</p>
+
