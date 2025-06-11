@@ -4,7 +4,7 @@
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=4F7BF7&center=true&vCenter=true&width=580&lines=Hello+World,+I'm+Ramesh+Neupane" alt="Hello World, I'm Ramesh Neupane" /></a></div>
 
-<p><b>An aspiring technologist and passionate developer, based in Kathmandu Nepal, on a journey to transform ideas into impactful digital solutions. My love for Computer Science and Information Technology drives me to continuously explore new technologies and build meaningful projects.</b></p>
+<p><b>An aspiring technologist and passionate developer, based in Hetauda Nepal, on a journey to transform ideas into impactful digital solutions. My love for Computer Science and Information Technology drives me to continuously explore new technologies and build meaningful projects.</b></p>
 
 <ul>
   <li>I'm currently learning <b>AI, DSA</b>.</li>
