@@ -48,6 +48,6 @@ const RameshNeupane = {
 <p>One of the best things that has happened in my life 👉 I got introduced to <b>Computer Science and Information Technology</b>.</p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/RameshNeupane/count.svg" alt="Visitor Count" title="Profile Visit Count" />
+  <img src="https://komarev.com/ghpvc/?username=RameshNeupane&style=for-the-badge&color=blue" width="180">
 </p>
 
