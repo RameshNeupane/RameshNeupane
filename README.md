@@ -39,7 +39,7 @@ const RameshNeupane = {
    <a href="https://x.com/rameshneupane98">
     <img src="https://skillicons.dev/icons?i=twitter" title="X (Twitter) - Ramesh Neupane" />
   </a>
-   <a href="https://www.instagram.com/__maailo">
+   <a href="https://www.instagram.com/kritagya.2025">
     <img src="https://skillicons.dev/icons?i=instagram" title="Instagram - Ramesh Neupane" />
   </a>
 </p>
